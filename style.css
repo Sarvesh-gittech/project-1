@@ -1,0 +1,116 @@
+*{
+    font-family: sans-serif;
+}
+.cont-01{
+    position: sticky;
+    top: 0;
+    background-color: rgb(255, 0, 0);
+}
+.menu img{
+    width: 30px;
+    height: 30px;
+}
+.about a{
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
+}
+.log-sign a button{
+    width: 110px;
+    height: 45px;
+    border-radius: 30px;
+    font-size: 16px;
+}
+.sign{
+    color: white;
+    background-color: #5D50C6;
+    border: none;
+    font-weight: 600;
+}
+.log{
+    color: white;
+    background-color: #5D50C6;
+    border: none;
+    font-weight: 600;
+}
+.content img{
+    width: 20px;
+    height: 20px;
+}
+.content h5{
+    font-weight: 600;
+}
+.content p{
+    font-size: 60px;
+    font-weight: 600;
+}
+.content h4{
+    font-size: 17px;
+}
+
+.btn-02 a button{
+    width: 200px;
+    height: 45px;
+    border-radius: 30px;
+}
+.GS{
+    color: white;
+    background-color: #5D50C6;
+    border: none;
+    font-weight: 600;
+    font-size: 16px;
+}
+.demo{
+    border: none;
+    font-weight: 600;
+    font-size: 16px;
+}
+.group-01 img{
+    height: 713px;
+    width: 650px;
+}
+.left h3{
+    font-size: 23px;
+    font-weight: 600;
+    color: #F85E9F;
+}
+.left p{
+    font-size: 42px;
+    font-weight: 600;
+}
+.guide{
+    width: 400px;
+    height: 350px;
+}
+.guide img{
+    width: 64px;
+}
+.booking{
+    width: 400px;
+    height: 350px;
+}
+.booking img{
+    width: 64px;
+}
+.weather{
+    width: 400px;
+    height: 350px;
+}
+.weather img{
+    width: 64px;
+}
+.text{
+    width: 70%;
+    height: 153px;
+    text-align: center;
+}
+.text h3{
+    font-size: 28px;
+}
+.text p{
+    font-size: 17px;
+}
+.arrows img{
+    width: 70px;
+}
